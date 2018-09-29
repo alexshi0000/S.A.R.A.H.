@@ -1,4 +1,5 @@
 # S.A.R.A.H
+Speech Answer and Reminder Adaptable Helper. Tool for Dementia patients to overcome daily challenges.
 
 ## Brief idea:
 Traditionally when an individual is diagnosed with Dementia, one of the first thoughts that goes through their head is the overwhelming fear that they will no longer be able to go on with their life independently and that they will become a burden to their loved ones. At Team Synaptic, we are proud to unveil our "A.I." app lovingly named S.A.R.A.H., the Speech Answer and Reminder Adaptable Helper, that aims to alleviate much of the stress associated with early stage Dementia from the affected individuals, as well as their caregivers. Our proprietary A.I. is personalized with live schedule changes from the caregiver, allowing the diagnosed individual to independently and effortlessly ask a wide range of specific questions 24/7, 365 days a week.
